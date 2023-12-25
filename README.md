@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emirhancodes
 - 👀 I’m interested in HTML/CSS/JS
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Front-End Developing
 - 💞️ I’m looking to collaborate on Website Projects
 
 <!---
